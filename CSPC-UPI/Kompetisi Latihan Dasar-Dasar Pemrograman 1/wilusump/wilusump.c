@@ -1,5 +1,5 @@
 /*
-problem Setter	: Rosa A. S. & M. Shalahuddin 	
+problem setter	: Rosa A. S. & M. Shalahuddin 	
 solved by 	: zicofarry/ Muhammad 'Azmi Salam
 date solved	: 2024-09-09
 */
