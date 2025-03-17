@@ -1,6 +1,7 @@
 /*
-	author 		: zicofarry/ Muhammad 'Azmi Salam
-	date solved	: 2024-09-09
+problem Setter	: Rosa A. S. & M. Shalahuddin 	
+solved by 	: zicofarry/ Muhammad 'Azmi Salam
+date solved	: 2024-09-09
 */
 
 #include <stdio.h>
